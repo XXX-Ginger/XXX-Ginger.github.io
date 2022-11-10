@@ -3,7 +3,7 @@ name: deployHexo
 on:
   push:
     branches:
-      - main
+      - myblog
 
 env:
   GIT_USER: XXX-Ginger
