@@ -3,13 +3,11 @@ name: deployHexo
 on:
   push:
     branches:
-      - myblog
+      - main
 
 env:
   GIT_USER: XXX-Ginger
   GIT_EMAIL: junjiexiang1105@gmail.com
-  THEME_REPO: sanonz/hexo-theme-concise
-  THEME_BRANCH: master
   DEPLOY_REPO: XXX-Ginger/XXX-Ginger.github.io
   DEPLOY_BRANCH: main
 
