@@ -22,3 +22,4 @@ jobs:
         with:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           BRANCH: main # The branch the action should deploy to.
+          FOLDER: public # The folder the action should deploy.
