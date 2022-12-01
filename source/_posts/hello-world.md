@@ -49,3 +49,11 @@ git fp
 
 <img src="/Users/xiangjunjie/Library/Application Support/typora-user-images/image-20221201142407218.png" alt="image-20221201142407218" style="zoom:50%;" />
 
+### 删除文章
+
+```
+1. 删除.deploy_git 文件夹
+2. 执行hexo clean
+3. 执行hexo deploy
+```
+
