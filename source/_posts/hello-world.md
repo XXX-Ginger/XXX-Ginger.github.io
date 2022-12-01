@@ -47,7 +47,7 @@ git fp
 
 在.git/config中配置，fp即完成git add和git commit和git push
 
-<img src="/Users/xiangjunjie/Library/Application Support/typora-user-images/image-20221201142407218.png" alt="image-20221201142407218" style="zoom:50%;" />
+<img src="/Users/xiangjunjie/Desktop/myBlog/source/_posts/hello-world.assets/image-20221201152235789.png" alt="image-20221201152235789" style="zoom:50%;" />
 
 ### 删除文章
 
