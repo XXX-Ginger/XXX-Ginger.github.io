@@ -36,3 +36,16 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+### Deploy method 2
+
+```
+git fp
+```
+
+快捷方法，在.github/workflows/deploy.yml 中配置push触发deploy
+
+在.git/config中配置，fp即完成git add和git commit和git push
+
+<img src="/Users/xiangjunjie/Library/Application Support/typora-user-images/image-20221201142407218.png" alt="image-20221201142407218" style="zoom:50%;" />
+
