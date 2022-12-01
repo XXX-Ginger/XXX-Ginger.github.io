@@ -57,3 +57,35 @@ git fp
 3. 执行hexo deploy
 ```
 
+### 图片问题
+
+##### 设置_config.yml
+
+```
+post_asset_folder: true
+```
+
+##### 安装hexo-asset-image
+
+```
+npm install https://github.com/CodeFalling/hexo-asset-image
+```
+
+##### Typora设置
+
+<img src="hello-world/image-20221201161702546.png" alt="image-20221201161702546" style="zoom:50%;" />
+
+##### 使用相对路径
+
+```
+<img src="hello-world/image-20221201161702546.png" alt="image-20221201161702546" style="zoom:50%;" />
+```
+
+##### 安装设置完后需要重新部署
+
+```
+1. 删除.deploy_git 文件夹
+2. 执行hexo clean
+3. 执行hexo deploy
+```
+
