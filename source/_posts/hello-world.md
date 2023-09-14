@@ -96,6 +96,6 @@ npm install https://github.com/CodeFalling/hexo-asset-image
 3. 执行hexo deploy
 ```
 
-##### 参考
+##### 参考网址
 
 https://blog.csdn.net/qq_58608526/article/details/124652412
