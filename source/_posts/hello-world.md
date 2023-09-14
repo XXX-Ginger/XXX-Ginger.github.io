@@ -51,7 +51,7 @@ git fp
 
 ```
 [alias]
-	fp = "!f() {git add -A && git commit -m \"fast push\" && git push; }; f"
+    	fp = "!f() { git add -A && git commit -m \"fast push\" && git push; }; f"
 ```
 
 
