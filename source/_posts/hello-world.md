@@ -99,3 +99,7 @@ npm install https://github.com/CodeFalling/hexo-asset-image
 ##### 参考网址
 
 https://blog.csdn.net/qq_58608526/article/details/124652412
+
+##### Hexo 
+
+xxx.github.io这个repo不能设置为private，否则个人网站会出现404
