@@ -49,6 +49,13 @@ git fp
 
 <img src="hello-world/image-20221201153449335.png" alt="image-20221201153449335" style="zoom:50%;" />
 
+```
+[alias]
+	fp = "!f() {git add -A && git commit -m \"fast push\" && git push; }; f"
+```
+
+
+
 ### 删除文章
 
 ```
