@@ -2,6 +2,7 @@
 title: git note
 date: 2023-09-14 09:29:27
 tags: Git
+categories: Cmp杂谈
 ---
 
 # git笔记

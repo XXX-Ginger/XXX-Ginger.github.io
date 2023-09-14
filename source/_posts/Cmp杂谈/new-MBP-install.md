@@ -1,7 +1,8 @@
 ---
 title: new MBP install
 date: 2023-09-14 08:13:09
-tags:
+tags: 安装
+categories: Cmp杂谈
 ---
 
 # 新机装机步骤
