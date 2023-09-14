@@ -72,7 +72,7 @@ git fp
 post_asset_folder: true
 ```
 
-##### 安装hexo-asset-image
+##### 安装hexo-asset-image（现在可不用安装该插件20230914）
 
 ```
 npm install https://github.com/CodeFalling/hexo-asset-image
@@ -96,3 +96,6 @@ npm install https://github.com/CodeFalling/hexo-asset-image
 3. 执行hexo deploy
 ```
 
+##### 参考
+
+https://blog.csdn.net/qq_58608526/article/details/124652412
