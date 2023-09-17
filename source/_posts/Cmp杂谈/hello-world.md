@@ -55,7 +55,13 @@ git fp
     	fp = "!f() { git add -A && git commit -m \"fast push\" && git push; }; f"
 ```
 
+### 新建文件夹下的文章
 
+```
+hexo new testTitle --path testFolder/testFile
+```
+
+此时 Hexo 会创建 `source/_posts/testFolder/testFile.md`，同时 `testFile.md` 的 Front Matter 中的 title 为 `"testTitle"`。这是因为在上述命令中，hexo-cli 将 `testTitle` 视为指定文章的标题、并采用默认的 `layout`。
 
 ### 删除文章
 
